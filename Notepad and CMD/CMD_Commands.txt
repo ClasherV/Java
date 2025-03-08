@@ -1,0 +1,11 @@
+Make Directory: mkdir "Directory Name"
+
+Check Java Version: javac -version
+
+Activate Jshell: jshell
+
+Exit Jshell: /exit
+
+Compile Java File: javac filename
+
+Execute Java File: java filename
