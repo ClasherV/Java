@@ -1,11 +1,27 @@
+Check Java Version: java -version 
+Check Java Version: javac -version
+
+Make Directory: mk "Directory Name"
 Make Directory: mkdir "Directory Name"
 
-Check Java Version: javac -version
+List Directory: dir
 
 Activate Jshell: jshell
 
+Jshell Intro: /help intro
+
+Jshell Verbose Mode: jshell -v
+
+Jshell List: /list
+Jshell List: /list -all
+
+Jshell Functions: /methods
+
 Exit Jshell: /exit
 
-Compile Java File: javac filename
+Compile Java File: javac filename.java
 
 Execute Java File: java filename
+
+Clear Screen: cls
+Clear Screen: clear
